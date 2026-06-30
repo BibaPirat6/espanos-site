@@ -401,7 +401,7 @@ body {
 
 .map{
   background-color: #100FA8;
-  background-image:url("img/Map-Latin_America.svg.png") ;
+  background-image:url("../img/Map-Latin_America.svg.png") ;
   height: 888px;
   background-repeat: no-repeat;
   background-position: top center;
@@ -537,11 +537,11 @@ details > summary{
 }
 
 details > summary::before {
-  content: url("img/arrow-down.svg");
+  content: url("../img/arrow-down.svg");
   margin: auto 0;
 }
 details[open] > summary::before {
-  content: url("img/arrow__export.svg");
+  content: url("../img/arrow__export.svg");
   margin: auto 0;
 }
 
@@ -551,7 +551,7 @@ details[open] > summary::before {
   margin-bottom: 128px;
   width: 100%;
   background-color: #100FA8;
-  background-image: url("img/estamos.png");
+  background-image: url("../img/estamos.png");
   background-repeat: no-repeat;
   background-position:right 144px top 7px;
   padding: 110px 144px;
@@ -749,13 +749,13 @@ details[open] > summary::before {
 
 
 .swiper-button-next{
-  content: url("img/siguente.svg");
+  content: url("../img/siguente.svg");
   margin-right: 120px;
   
 
 }
 .swiper-button-prev{
-  content: url("img/anterior.svg");
+  content: url("../img/anterior.svg");
   margin-left: 120px;
 }
 
