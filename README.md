@@ -2,11 +2,11 @@
 
 ![GitHub top language](https://img.shields.io/github/languages/top/BibaPirat6/espanos-site)
 ![GitHub last commit](https://img.shields.io/github/last-commit/BibaPirat6/espanos-site)
-![License](https://img.shields.io/github/license/BibaPirat6/espanos-site)
+
 
 ### 🔗 [Посмотреть Live Demo](https://BibaPirat6.github.io/espanos-site/)
 
----
+---  
 
 ## 🎯 О проекте и цель разработки
 Этот проект — мой персональный **Pet-проект**, созданный с целью глубокой отработки навыков семантической верстки, работы с комплексными CSS-сетками и адаптивности. 
@@ -38,3 +38,12 @@ git clone [https://github.com/BibaPirat6/espanos-site.git](https://github.com/Bi
 
 # Переходим в папку проекта
 cd espanos-site
+
+Если ты уже работаешь в Visual Studio Code:
+
+1. Установи расширение **Live Server** (автор: Ritwick Dey).
+   - Открой VS Code → вкладка Extensions (`Ctrl+Shift+X`)
+   - В поиске введи `Live Server` → нажми **Install**
+2. Кликни правой кнопкой мыши по файлу `index.html`
+3. Выбери **"Open with Live Server"**
+4. Сайт автоматически откроется в браузере по адресу `http://127.0.0.1:5500`
