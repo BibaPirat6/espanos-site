@@ -1,2 +1,33 @@
-# espanos-site
-My first project and site :3
+# 🇪🇸 Espanos Site — Адаптивный веб-сайт [Название проекта]
+
+<!-- Сюда вставляем бейджики. Их можно сгенерировать на shields.io -->
+![GitHub top language](https://img.shields.io/github/languages/top/BibaPirat6/espanos-site)
+![GitHub last commit](https://img.shields.io/github/last-commit/BibaPirat6/espanos-site)
+![License](https://img.shields.io/github/license/BibaPirat6/espanos-site)
+
+### 🔗 [Посмотреть Live Demo](ССЫЛКА_НА_ДЕПЛОЙ) 
+
+---
+
+## 📝 Описание проекта
+**Espanos Site** — это фронтенд-проект, представляющий собой [кратко опиши суть сайта: например, промо-страница, информационный портал или лэндинг]. Создан с фокусом на чистую семантическую верстку и высокую скорость загрузки.
+
+## 🎯 Идея и бизнес-задача (Problem / Solution)
+*   **Проблема:** [Например: Поиск качественной информации о культуре/языке Испании разрознен].
+*   **Решение:** Создание стильного, быстрого и интуитивно понятного интерфейса, который собирает ключевые элементы в одном месте и отлично выглядит на любых устройствах.
+
+## 🛠️ Технологический стек
+*   **HTML5** (Семантическая верстка, SEO-friendly)
+*   **CSS3** (Custom Properties, Flexbox/Grid для адаптивности)
+*   Google Fonts & SVG Иконки (оптимизация графики)
+
+## 📱 Анимации и адаптивность
+*(Здесь можно вставить гифку или скриншот, как сайт выглядит на телефоне)*
+*   Полностью адаптивный дизайн (Mobile First / Desktop First).
+*   Плавные переходы и интерактивные элементы для улучшения UX.
+
+## 🚀 Как запустить локально
+
+1. Клонировать репозиторий:
+   ```bash
+   git clone [https://github.com/BibaPirat6/espanos-site.git](https://github.com/BibaPirat6/espanos-site.git)
